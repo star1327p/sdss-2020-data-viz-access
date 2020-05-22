@@ -1,5 +1,7 @@
-# sdss-2020-data-viz-access
-Slides for SDSS 2020 (Symposium on Data Science and Statistics)
+# Data Visualization and Accessibility
 
-Data Visualization and Accessibility  
-https://ww2.amstat.org/meetings/sdss/2020/onlineprogram/AbstractDetails.cfm?AbstractID=308226
+Conference: Symposium on Data Science and Statistics (SDSS)  
+Dates: June 3-5, 2020  
+
+[Abstract link](https://ww2.amstat.org/meetings/sdss/2020/onlineprogram/AbstractDetails.cfm?AbstractID=308226)  
+Short URL of this repo: https://tinyurl.com/sdss-2020-chai
